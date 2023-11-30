@@ -43,3 +43,8 @@ let num1=568;
             let b=20;
             console.log(b);
         }
+
+        let name2="Subhashree";
+        let vegetable="ladisfinger";
+        console.log(typeof(name2));
+        console.log(typeof(vegetable));
