@@ -31,6 +31,15 @@ let num1=568;
      let holderName="Web-Bocket";
      accountCity="BBSR";
             // accountId=89683;
-     accountNmae="current";
+     accountName="current";
      holderName="Bocket-Lamp";
      console.table([accountId,accountName,holderName,accountCity]);
+
+     var a=10
+     if(a<=10)
+        {
+            var name1="ABC";
+            console.log("It is good");
+            let b=20;
+            console.log(b);
+        }
