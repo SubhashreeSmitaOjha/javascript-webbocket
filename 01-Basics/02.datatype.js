@@ -25,3 +25,12 @@ let num1=568;
      let Id=Symbol("123");
      let UserId=Symbol("123");
      console.log(Id==UserId);
+
+     const accountId=45678;
+     var accountName="savings";
+     let holderName="Web-Bocket";
+     accountCity="BBSR";
+            // accountId=89683;
+     accountNmae="current";
+     holderName="Bocket-Lamp";
+     console.table([accountId,accountName,holderName,accountCity]);
