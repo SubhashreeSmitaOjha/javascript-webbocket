@@ -48,3 +48,16 @@ let num1=568;
         let vegetable="ladisfinger";
         console.log(typeof(name2));
         console.log(typeof(vegetable));
+
+        var names="ABC";
+        console.log(names);
+        // names="XYZ";
+        // Console.log(names)
+        let nameId=568;
+        console.log(nameId);
+        nameId=863;
+        console.log(nameId);
+        const fruit="Apple";
+        console.log(fruit);
+        // fruit="Orange";
+        // console.log(fruit);   
