@@ -13,3 +13,11 @@ it is like an expression which control the expression of a program.
     if (a<=20) {
         console.log("a is smallest");
     }
+// if-else
+    let b=10;
+    if (b<=20) {
+        console.log("b is smallest");
+    }
+    else{
+        console.log("a is greater");
+    }
