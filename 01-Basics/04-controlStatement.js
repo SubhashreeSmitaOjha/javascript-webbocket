@@ -32,6 +32,27 @@ it is like an expression which control the expression of a program.
     else{
         console.log("you belong to senior citizen category");
     }
+// Switch
+    let num=3;
+    switch(num){
+        case 0:
+            console.log("num value is 0");
+            break;
+        case 1:
+            console.log("num value is 1");
+            break;
+        case 2:
+            console.log("num value is 2");
+            break;
+        case 3:
+            console.log("num value is 3");
+            break;
+        case 4:
+            console.log("num value is 4");
+            break;
+        default:
+            console.log("num is not matched");
+    }
 // taking input from user
     // let num1=prompt("Enter a no:");
     // let num2=parseInt(prompt("Enter a no:"));
