@@ -21,3 +21,7 @@ it is like an expression which control the expression of a program.
     else{
         console.log("a is greater");
     }
+// else-if
+// taking input from user
+    let num1=prompt("Enter a no:");
+    // let num2=parseInt(prompt("Enter a no:"));
