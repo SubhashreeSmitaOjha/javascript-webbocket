@@ -22,6 +22,16 @@ it is like an expression which control the expression of a program.
         console.log("a is greater");
     }
 // else-if
+    let age=55;
+    if (age<18) {
+        console.log("you are not eligible for drive");
+    }
+    else if(age>=18 && age<60){
+        console.log("you are eligible for drive");
+    }
+    else{
+        console.log("you belong to senior citizen category");
+    }
 // taking input from user
-    let num1=prompt("Enter a no:");
+    // let num1=prompt("Enter a no:");
     // let num2=parseInt(prompt("Enter a no:"));
