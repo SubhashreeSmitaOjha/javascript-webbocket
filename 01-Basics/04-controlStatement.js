@@ -62,6 +62,12 @@ it is like an expression which control the expression of a program.
     // let num2=parseInt(prompt("Enter a no:"));
 
 
-// for loop--which you use to check for certain conditions and then repeatedly execute a 
-// block of code as long as those conditions are met.
-
+// for loop--which you use to check for certain conditions and then repeatedly execute a block of code as long as those conditions are met.
+    //Ex-1
+        for (let i = 0; i < 3; i++) {
+            let name = "Subhashree";
+            console.log("Hi, my name is " + name);
+        }
+    //Ex-2
+            
+        
