@@ -60,3 +60,8 @@ it is like an expression which control the expression of a program.
 // taking input from user
     // let num1=prompt("Enter a no:");
     // let num2=parseInt(prompt("Enter a no:"));
+
+
+// for loop--which you use to check for certain conditions and then repeatedly execute a 
+// block of code as long as those conditions are met.
+
