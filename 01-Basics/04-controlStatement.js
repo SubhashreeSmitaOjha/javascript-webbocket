@@ -69,5 +69,8 @@ it is like an expression which control the expression of a program.
             console.log("Hi, my name is " + name);
         }
     //Ex-2
+         for (let i = 2; i <= 10; i+=2) {
+            console.log(i);
             
+         }   
         
