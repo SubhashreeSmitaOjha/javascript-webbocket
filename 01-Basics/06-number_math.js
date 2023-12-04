@@ -1,3 +1,4 @@
+// Number
 // Ex-1
     const num=768;
     console.log(num);
@@ -14,3 +15,11 @@
     console.log(otherNumber.toPrecision(4));
     const demoNumber=1000000;
     console.log(demoNumber.toLocaleString());
+// Math
+// Ex-1
+    console.log(Math.abs(-4));
+    console.log(Math.random());
+// Ex-2
+    const min=10;
+    const max=20;
+    console.log(Math.floor(Math.random()*(Math-min+1))+min);
