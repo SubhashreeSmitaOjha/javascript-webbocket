@@ -5,3 +5,10 @@
         console.log(a);
         a++;
     }
+// 2.Do-While loop(Exit control loop)
+// Ex-2
+    let b=50;
+    do {
+        console.log(b);
+        b++;
+    } while (b<50);
