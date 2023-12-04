@@ -1,3 +1,9 @@
+/*Data Type and Memory
+1.primitive(number,bigint,symbol,string,boolean,null,undefined)
+2.reference([],{},())
+
+*/
+
 let num1=568;
      let num2=568.38;
      console.log(typeof(num1));
