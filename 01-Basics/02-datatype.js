@@ -81,5 +81,7 @@ let num1=568;
     }
     const userTwo=userOne;
     userTwo.email="abc@gmail.com";
+    console.log(userOne.email);
+    console.log(userTwo.email);
     console.log(userOne);
     console.log(userTwo);
