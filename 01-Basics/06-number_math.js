@@ -20,6 +20,6 @@
     console.log(Math.abs(-4));
     console.log(Math.random());
 // Ex-2
-    const min=10;
-    const max=20;
+    const min=100;
+    const max=200;
     console.log(Math.floor(Math.random()*(Math-min+1))+min);
