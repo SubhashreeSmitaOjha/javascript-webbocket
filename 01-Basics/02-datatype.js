@@ -1,6 +1,6 @@
 /*Data Type and Memory
 1.primitive(number,bigint,symbol,string,boolean,null,undefined)
-2.reference([],{},())
+2.reference([],{},())(use heap memory)
 
 */
 
@@ -66,4 +66,20 @@ let num1=568;
         const fruit="Apple";
         console.log(fruit);
         // fruit="Orange";
-        // console.log(fruit);   
+        // console.log(fruit);
+// primitive
+// Ex-1
+    let myName="Subhashree";
+    let anotherName="Sonu";
+    anotherName="Sonaly";
+    console.log(anotherName);
+// reference
+// Ex-2
+    const userOne={
+        email:"xyz@gmail.com",
+        upi:"123@gmail.com"
+    }
+    const userTwo=userOne;
+    userTwo.email="abc@gmail.com";
+    console.log(userOne);
+    console.log(userTwo);
