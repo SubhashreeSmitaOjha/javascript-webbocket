@@ -18,3 +18,9 @@
     // Ex-4
         const Arr=[1,2,3,4,5,6];
         console.log(Arr[4]);
+// Array prototype.push():-used to add an element in the last of an array.
+    console.log(Arr.push(7));
+    console.log(Arr);
+// Array prototype.pop():-used to remove last element of an array.
+    console.log(Arr.pop());
+    console.log(Arr);
