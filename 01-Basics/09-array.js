@@ -51,3 +51,10 @@
     const demoArray=Arr.join();
     console.log(demoArray);
     console.log(typeof demoArray);
+// slice():-selects elements from the start argument, and up to (but not including) the end argument.(not change original array).
+    console.log(Arr.slice(1,3));
+// splice():-cut a array and changes original array.
+    console.log(Arr.splice(1,3));
+    console.log(Arr);
+
+    console.log(Arr);
