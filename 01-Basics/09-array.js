@@ -39,3 +39,9 @@
     const myGirls=["Ananya","Mama","Pooja","Lisha"];
     const myFriend=myBoys.concat(myGirls);
     console.log(myFriend);
+// includes():-check pass element present in your array or not.
+    console.log(Arr.includes(9));
+// indexOf():-check element
+    console.log(Arr.indexOf(5));
+
+    console.log(Arr.indexOf(10));
