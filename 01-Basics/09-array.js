@@ -60,3 +60,7 @@
     console.log(Arr);
 
     console.log(Arr);
+
+// Spread operator
+    const heroes=[...Arr,...myFriend];
+    console.log(heroes);
