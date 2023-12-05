@@ -14,9 +14,18 @@
     console.log(name1.indexOf('b'));
     console.log(name1.charAt(7));
 // Ex-3
-    const newName=name1.SubString(0,4);
-    console.log(newName);
+    // const newName=name1.SubString(0,4);
+    // console.log(newName);
 // Ex-4
     const myName="____gift____";
     console.log(myName);
     console.log(myName.trim());
+// Ex-5
+    const anotherName=name1.slice(0,6);
+    console.log(anotherName);
+// Ex-6
+    const url="www.Web_Bocket.com";
+    console.log(url.replace("com","in"));
+// Ex-7
+    const demo="gift-is-an-awesome-college";
+    console.log(demo.split('-'));
