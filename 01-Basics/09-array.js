@@ -45,3 +45,9 @@
     console.log(Arr.indexOf(5));
 
     console.log(Arr.indexOf(10));
+
+    console.log(Arr);
+// join():-convert array to string.
+    const demoArray=Arr.join();
+    console.log(demoArray);
+    console.log(typeof demoArray);
