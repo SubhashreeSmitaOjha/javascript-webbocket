@@ -41,7 +41,7 @@
     console.log(myFriend);
 // includes():-check pass element present in your array or not.
     console.log(Arr.includes(9));
-// indexOf():-check element
+// indexOf():-check element if present then return index no otherwise return -1.
     console.log(Arr.indexOf(5));
 
     console.log(Arr.indexOf(10));
