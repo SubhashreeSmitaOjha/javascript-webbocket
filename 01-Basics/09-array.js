@@ -15,3 +15,6 @@
         getArr1[1]="XYZ";
         getArr1[2]="PQR";
         console.log(getArr1);
+    // Ex-4
+        const Arr=[1,2,3,4,5,6];
+        console.log(Arr[4]);
