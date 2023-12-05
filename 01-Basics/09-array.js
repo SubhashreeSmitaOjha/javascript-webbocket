@@ -30,3 +30,7 @@
 // shift():-used to delete element from the begining in the array.
     console.log(Arr.shift());
     console.log(Arr);
+// length:-used to get length of an array.
+    console.log(Arr.length);
+// toString():-used to conver array to string.
+    console.log(Arr.toString());
