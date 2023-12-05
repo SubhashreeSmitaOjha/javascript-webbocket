@@ -61,6 +61,10 @@
 
     console.log(Arr);
 
-// Spread operator
+// Spread operator(ES6)
     const heroes=[...Arr,...myFriend];
     console.log(heroes);
+// flat()
+    let anotherArray=[1,2,3,4,[5,6,7,[8,9,10]],11,12,[13,14,15],16];
+    let anotherArrayList=anotherArray.flat(Infinity);
+    console.log(anotherArrayList);
