@@ -10,7 +10,8 @@
         const getArr=new Array(1,2,3,4,5);
         console.log(getArr);
     // Ex-3
-        // const getArr1[0] ="ABC";
-        // const getArr1[1]="XYZ";
-        // const getArr1[2]="PQR";
-        // console.log(getArr1);
+        const getArr1=[];
+        getArr1[0]="ABC";
+        getArr1[1]="XYZ";
+        getArr1[2]="PQR";
+        console.log(getArr1);
