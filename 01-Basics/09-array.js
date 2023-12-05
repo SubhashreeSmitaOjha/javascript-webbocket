@@ -24,3 +24,9 @@
 // Array prototype.pop():-used to remove last element of an array.
     console.log(Arr.pop());
     console.log(Arr);
+// unshift():-used to add element in the first index of an array.
+    console.log(Arr.unshift(14));
+    console.log(Arr);
+// shift():-used to delete element from the begining in the array.
+    console.log(Arr.shift());
+    console.log(Arr);
