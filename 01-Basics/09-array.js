@@ -34,3 +34,8 @@
     console.log(Arr.length);
 // toString():-used to conver array to string.
     console.log(Arr.toString());
+// array Concat():-used to concat arrays.
+    const myBoys=["Aman","Soumya","Subhrakant"];
+    const myGirls=["Ananya","Mama","Pooja","Lisha"];
+    const myFriend=myBoys.concat(myGirls);
+    console.log(myFriend);
