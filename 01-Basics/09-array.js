@@ -35,10 +35,12 @@
 // toString():-used to conver array to string.
     console.log(Arr.toString());
 // array Concat():-used to concat arrays.
-    const myBoys=["Aman","Soumya","Subhrakant"];
-    const myGirls=["Ananya","Mama","Pooja","Lisha"];
-    const myFriend=myBoys.concat(myGirls);
-    console.log(myFriend);
+    // Ex-1
+        const myBoys=["Aman","Soumya","Subhrakant"];
+        const myGirls=["Ananya","Mama","Pooja","Lisha"];
+        const myFriend=myBoys.concat(myGirls);
+        console.log(myFriend);
+
 // includes():-check pass element present in your array or not.
     console.log(Arr.includes(9));
 // indexOf():-check element if present then return index no otherwise return -1.
