@@ -23,3 +23,15 @@
 // Ex-3
 console.log(Object.entries(person1));
 console.log(Object.entries(person));
+// Ex-4
+const userName={
+    userFullName:{
+        userDetails:{
+            fname:"Subhashree Smita",
+            lanme:"Ojha"
+        }
+    }
+}
+console.log(userName);
+console.log(userName.userFullName.userDetails.fname);
+console.log(userName.userFullName.userDetails.lanme);
