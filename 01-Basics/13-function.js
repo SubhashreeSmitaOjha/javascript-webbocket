@@ -1,7 +1,7 @@
-function name() {
-    console.log("S");
+function name() {               //function definition 
+    console.log("S");      
     console.log("u");
-    console.log("b");
+    console.log("b");           //function body
     console.log("h");
     console.log("a");
     console.log("S");
@@ -10,7 +10,7 @@ function name() {
     console.log("e");
     console.log("e");
 }
-name();
+name();                         //function call
 name();
 name();
 name();
