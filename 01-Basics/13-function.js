@@ -19,3 +19,9 @@ function addNum(num1,num2) {
     console.log(num1+num2)
 }
 addNum(4,5);
+// Ex-2
+function addNum(num1,num2) {
+    return num1+num2;
+}
+const result=addNum(6,9);
+console.log(result);
