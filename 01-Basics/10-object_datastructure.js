@@ -14,3 +14,7 @@
     console.log(person1);
     console.log(person1.name);
     console.log(person1.location);
+    person1.isLoggedIn=false;
+
+    console.log(Object.keys(person1));
+    console.log(Object.values(person1));
