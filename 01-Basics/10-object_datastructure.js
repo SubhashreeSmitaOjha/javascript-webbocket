@@ -18,3 +18,5 @@
 
     console.log(Object.keys(person1));
     console.log(Object.values(person1));
+    console.log(person1.hasOwnProperty("isLoggedIn"));
+    console.log(person.hasOwnProperty("isLoggedIn"));
