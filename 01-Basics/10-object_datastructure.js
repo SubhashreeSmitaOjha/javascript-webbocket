@@ -20,3 +20,6 @@
     console.log(Object.values(person1));
     console.log(person1.hasOwnProperty("isLoggedIn"));
     console.log(person.hasOwnProperty("isLoggedIn"));
+// Ex-3
+console.log(Object.entries(person1));
+console.log(Object.entries(person));
